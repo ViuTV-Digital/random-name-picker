@@ -10,12 +10,16 @@ include ../mixins/icons
   canvas#confetti-canvas.confetti
 
   #lucky-draw
+    h1.viutv_title Christmas Party Lucky Draw
+
+    .viutv_logo 
+      include ../assets/images/title.svg
+
     .title
       //- Pug loader currently does not handle webpack alias so we will use relative path here
-      include ../assets/images/title.svg
-      img(src="~@images/bear.png" alt="bear" widht="100" height="100")
+      
+      img(src="~@images/three_bear.png" alt="bear" widht="300" height="250")
     
-    h1.viutv_title Christmas Party Lucky Draw
 
     .slot
       .slot__outer
