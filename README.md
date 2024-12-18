@@ -1,7 +1,7 @@
 <p align="center">
-    <img alt="Random Name Picker for Lucky Draw" src="./logo.svg" width="100" />
+    <img alt="ViuTV Christmas Lucky Draw" src="./logo.svg" width="100" />
 </p>
-<h1 align="center">Random Name Picker for Lucky Draw</h1>
+<h1 align="center">ViuTV Christmas Lucky Draw</h1>
 <p align="center">
     Simple HTML5 random name picker for picking lucky draw winner using Web Animations and AudioContext API
 </p>
