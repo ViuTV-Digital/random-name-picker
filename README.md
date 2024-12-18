@@ -16,6 +16,10 @@
     <a href="https://github.com/icelam/random-name-picker/releases"><img alt="Current version" src="https://img.shields.io/github/v/release/icelam/random-name-picker.svg?sort=semver&label=latest&logo=github"/></a>
 </p>
 
+## Production
+
+https://viutv-digital.github.io/random-name-picker/
+
 ## Live Demo
 Demo is available at [https://pinkylam.me/playground/random-name-picker](https://pinkylam.me/playground/random-name-picker)
 
