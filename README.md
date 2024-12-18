@@ -16,6 +16,10 @@
     <a href="https://github.com/icelam/random-name-picker/releases"><img alt="Current version" src="https://img.shields.io/github/v/release/icelam/random-name-picker.svg?sort=semver&label=latest&logo=github"/></a>
 </p>
 
+## Production
+
+https://viutv-digital.github.io/random-name-picker/
+
 ## Live Demo
 Demo is available at [https://pinkylam.me/playground/random-name-picker](https://pinkylam.me/playground/random-name-picker)
 
@@ -61,3 +65,9 @@ This app works fine under common static web hosting choices. Here's a general ou
 3. Next, you'll need to build the project. Use the command `yarn build` to initiate the build process. This command will compile and bundle the source code, generating the assets required for hosting.
 
 4. Once the build process is complete, you'll need to copy all the generated assets located under the `/dist` directory. The specific command to accomplish this may vary depending on the CI/CD tool and OS you're using. Typically, you'll need to include a step in your pipeline that copies the contents of the `/dist` directory to a storage accessible by your chosen static web hosting service.
+
+### Deployment to GitHub Page
+
+```
+yarn deploy
+```
